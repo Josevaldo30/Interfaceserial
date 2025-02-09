@@ -118,5 +118,7 @@ acendeRGB(bool r, bool g, bool b): Controla o estado dos LEDs RGB.
 
 botao_interrupcao(uint gpio, uint32_t events): Gerencia as interrupções dos botões.
 
+link para acessar o video postado no youtube: https://youtu.be/X_TyZ2lQr5Y
+
 padrao1(double *desenho, uint32_t valor_led, PIO pio, uint sm, double r, double g, double b): Atualiza a matriz de LEDs com base no padrão selecionado.
 
